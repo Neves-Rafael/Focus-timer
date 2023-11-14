@@ -67,6 +67,9 @@ video {
   position: fixed;
   z-index: -99;
   opacity: 0.5;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 main {
@@ -172,6 +175,10 @@ html:not(.animate-on) .ph-slideshow {
 }
 
 @media (max-width: 1000px) {
+  * {
+    font-size: 50%;
+  }
+
   .container {
     flex-direction: column;
   }
@@ -181,6 +188,12 @@ html:not(.animate-on) .ph-slideshow {
     grid-template-columns: 1fr 1fr;
     gap: 3.2rem;
     place-self: center;
+  }
+}
+
+@media (max-width: 500px) {
+  * {
+    font-size: 35%;
   }
 }
 
