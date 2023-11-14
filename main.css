@@ -175,6 +175,11 @@ html:not(.animate-on) .ph-slideshow {
 }
 
 @media (max-width: 1000px) {
+  video{
+    height: 100vh;
+  }
+
+
   * {
     font-size: 50%;
   }
