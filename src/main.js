@@ -7,4 +7,7 @@ document.addEventListener("keydown", function (e) {
   if (e.key === "Enter") {
     e.preventDefault();
   }
+  if (e.ctrlKey && e.key === "v") {
+    e.preventDefault();
+  }
 });
