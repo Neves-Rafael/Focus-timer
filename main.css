@@ -191,9 +191,15 @@ html:not(.animate-on) .ph-slideshow {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
+  .set .ph-timer {
+    display: none;
+  }
+}
+
+@media (max-width: 425px) {
   * {
-    font-size: 35%;
+    font-size: min(38%, 50%);
   }
 }
 
