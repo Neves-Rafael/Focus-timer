@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-bg" class="winter music-off animate-on">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Temporizador estilo pomodoro" />
+
+    <title>Focus Timer</title>
+
+    <link rel="shortcut icon" href="assets/favicon.svg" type="image/x-svg" />
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <link rel="stylesheet" href="./main.css" />
+  </head>
+  <body>
+    <video class="winter-bg" src="assets/bg-winter.mp4" loop autoplay muted></video>
+    <video class="summer-bg" src="assets/bg-summer.mp4" loop autoplay muted></video>
+    <video class="fall-bg" src="assets/bg-fall.mp4" loop autoplay muted></video>
+    <video class="spring-bg" src="assets/bg-spring.mp4" loop autoplay muted></video>
+    <main>
+      <div class="container">
+        <div class="app">
+          <div>
+            <span id="minutes">25</span>
+            <span>:</span>
+            <span id="seconds">00</span>
+          </div>
+          <div id="controls">
+            <button
+              data-action="toggleRunning"
+              class="ph-bold ph-play-circle"></button>
+            <button
+              data-action="toggleRunning"
+              class="ph-bold ph-pause-circle"></button>
+
+            <button data-action="set" class="ph-bold ph-timer"></button>
+
+            <button data-action="reset" class="ph-bold ph-stop-circle"></button>
+
+            <button
+              data-action="plusCount"
+              class="ph-bold ph-plus-circle"></button>
+
+            <button
+              data-action="minusCount"
+              class="ph-bold ph-minus-circle"></button>
+          </div>
+          <div id="loop-controle">
+            <button
+              data-action="toggleMusic"
+              class="ph-bold ph-speaker-high"></button>
+            <button
+              data-action="toggleMusic"
+              class="ph-bold ph-speaker-x"></button>
+            <button
+              data-action="toggleAnimate"
+              class="ph-bold ph-image"></button>
+            <button
+              data-action="toggleAnimate"
+              class="ph-bold ph-slideshow"></button>
+          </div>
+          <div class="rangeContainer">
+            <input type="range" name="range" id="rangeSelector">
+          </div>
+        </div>
+
+        <div class="toggle-theme">
+          <button class="ph ph-leaf" id="spring"></button>
+          <button class="ph ph-cloud-rain" id="winter"></button>
+          <button class="ph ph-cloud-sun" id="fall"></button>
+          <button class="ph ph-sun" id="summer"></button>
+        </div>
+      </div>
+    </main>
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>
