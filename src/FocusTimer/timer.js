@@ -20,13 +20,15 @@ export function countDown() {
   }
 
   if (minutes < 0) {
+    const finishSound = new Audio("assets/kichen-timer.mp3");
+    finishSound.volume = 0.1;
+    finishSound.play();
     reset();
     return;
   }
 
   updateDisplay(minutes, seconds);
   state.countDownId = setTimeout(() => countDown(), 1000);
-
 }
 
 export function updateSum(sum) {

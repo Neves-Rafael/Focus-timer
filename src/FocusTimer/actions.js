@@ -5,7 +5,9 @@ import * as station from "../switch-stations.js";
 
 export function toggleRunning() {
   state.isRunning = document.documentElement.classList.toggle("running");
-
+  const toggleSound = new Audio("assets/button-press.wav");
+  toggleSound.volume = 0.1;
+  toggleSound.play();
   timer.countDown();
 }
 
