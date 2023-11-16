@@ -10,15 +10,17 @@ Projeto desenvolvido durante o curso **Explorer** oferecida pela [Rocketseat](ht
 O Explorer é uma experiência online com muito conteúdo prático e desafios.
 
 
-
-### ⚙️Features
+<h1 align="center">⚙️Features</h1>
 
 <h3 align="center">⭐ Escolher entre 4 temas (estações do ano)</h3>
-<h3 align="center">⭐ Reproduzir ou não um Vídeo de fundo</h3>
-<h3 align="center">⭐ Alterar o Timer como desejar</h3>
 
 ![image](https://github.com/Neves-Rafael/Focus-timer/assets/136202919/c79d3ca6-f9e6-47b4-a809-7f33154f94da)
+
+<h3 align="center">⭐ Reproduzir ou não um Vídeo de fundo</h3>
+
 ![image](https://github.com/Neves-Rafael/Focus-timer/assets/136202919/d685626d-3f14-41e7-8808-4a269c2624b5)
+<h3 align="center">⭐ Alterar o Timer como desejar</h3>
+
 ![image](https://github.com/Neves-Rafael/Focus-timer/assets/136202919/9cccf2d7-a7bb-4381-8374-535609bcdcf9)
 
 
