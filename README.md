@@ -6,9 +6,9 @@
 <p align="center">⏲️Focus Timer - É uma forma de marca o tempo para que se mantenha focado nos estudos ou em outras tarefas que necessitam de concentração! É possível adiicionar 4 trilhas sonoras e videos relaxantes para tocar de fundo tendo sua experiência 100% personalizada!</p>
 <br/>
 <br/>
-<br/>
 <p align="center">Projeto desenvolvido durante o curso **Explorer** oferecida pela <a href="https://app.rocketseat.com.br/">RocketSeat</a>.<br/>
 O Explorer é uma experiência online com muito conteúdo prático e desafios.</p>
+<br/>
 
 
 
@@ -19,7 +19,7 @@ O Explorer é uma experiência online com muito conteúdo prático e desafios.</
 <h3 align="center">⭐ Escolher entre 4 temas (estações do ano)</h3>
 
 <p align="center">
-  <img src="https://github.com/Neves-Rafael/Focus-timer/assets/136202919/9cccf2d7-a7bb-4381-8374-535609bcdcf9">
+  <img width="500px" src="https://github.com/Neves-Rafael/Focus-timer/assets/136202919/9cccf2d7-a7bb-4381-8374-535609bcdcf9">
 </p>
 
 
@@ -37,7 +37,7 @@ O Explorer é uma experiência online com muito conteúdo prático e desafios.</
 <h2 align="center">🧱 Pré-requisitos</h2>
 <br/>
 
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com">Git</a> <br/>
+<p align="center">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com">Git</a> <br/>
 Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">Git</a></p>
 
 <h2 align="center">🎲 Rodando a aplicação</h2>
@@ -57,7 +57,7 @@ $ git clone https://github.com/Neves-Rafael/Focus-timer
 <h2 align="center">🛠 Tecnologias</h2>
 <br/>
 
-<p>As seguintes ferramentas foram usadas na construção do projeto:<br/>
+<p align="center">As seguintes ferramentas foram usadas na construção do projeto:<br/>
 
 - JavaScript - CSS - HTML
   <br/>
@@ -68,7 +68,7 @@ $ git clone https://github.com/Neves-Rafael/Focus-timer
 <br/>
 <br/>
 
-<p align="center">Este projeto esta sobe a licença MIT.
+<p align="center">Este projeto esta sobe a licença MIT.</p>
 
-Feito com ❤️ por Rafael Neves 👋🏽 <a href="https://www.linkedin.com/in/rafael-neves-profile/">Entre em Contato</a></p>
+<p align="center">Feito com ❤️ por Rafael Neves 👋🏽 <a href="https://www.linkedin.com/in/rafael-neves-profile/">Entre em Contato</a></p>
 
