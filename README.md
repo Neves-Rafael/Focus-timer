@@ -6,7 +6,7 @@
 <p align="center">⏲️Focus Timer - É uma forma de marca o tempo para que se mantenha focado nos estudos ou em outras tarefas que necessitam de concentração! É possível adiicionar 4 trilhas sonoras e videos relaxantes para tocar de fundo tendo sua experiência 100% personalizada!</p>
 <br/>
 <br/>
-<p align="center">Projeto desenvolvido durante o curso **Explorer** oferecida pela <a href="https://app.rocketseat.com.br/">RocketSeat</a>.<br/>
+<p align="center">Projeto desenvolvido durante o curso <strong>Explorer</strong> oferecida pela <a href="https://app.rocketseat.com.br/">RocketSeat</a>.<br/>
 O Explorer é uma experiência online com muito conteúdo prático e desafios.</p>
 <br/>
 
