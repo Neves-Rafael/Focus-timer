@@ -12,6 +12,15 @@ O Explorer é uma experiência online com muito conteúdo prático e desafios.
 
 <h1 align="center">⚙️Features</h1>
 
+
+<h3 align="center">⭐ Escolher entre 4 temas (estações do ano)</h3>
+
+<p align="center">
+  <img src="https://github.com/Neves-Rafael/Focus-timer/assets/136202919/9cccf2d7-a7bb-4381-8374-535609bcdcf9" alt="Descrição da imagem">
+</p>
+
+
+
 <h3 align="center">⭐ Escolher entre 4 temas (estações do ano)</h3>
 
 <a align="center">![image](https://github.com/Neves-Rafael/Focus-timer/assets/136202919/9cccf2d7-a7bb-4381-8374-535609bcdcf9)</a>
