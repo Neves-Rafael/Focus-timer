@@ -38,7 +38,7 @@ O Explorer é uma experiência online com muito conteúdo prático e desafios.</
 <br/>
 
 <p align="center">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com">Git</a> <br/>
-Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">Git</a></p>
+Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode</a></p>
 <br/>
 <br/>
 <br/>
