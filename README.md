@@ -4,15 +4,16 @@
 
 
 <p align="center">⏲️Focus Timer - É uma forma de marca o tempo para que se mantenha focado nos estudos ou em outras tarefas que necessitam de concentração! É possível adiicionar 4 trilhas sonoras e videos relaxantes para tocar de fundo tendo sua experiência 100% personalizada!</p>
-
-
+<br/>
+<br/>
+<br/>
 <p align="center">Projeto desenvolvido durante o curso **Explorer** oferecida pela <a href="https://app.rocketseat.com.br/">RocketSeat</a>.<br/>
 O Explorer é uma experiência online com muito conteúdo prático e desafios.</p>
 
 
 
 
-<h1 align="center">⚙️Features</h1>
+<h1 align="center">⚙️Funcionalidades</h1>
 
 
 <h3 align="center">⭐ Escolher entre 4 temas (estações do ano)</h3>
@@ -33,12 +34,14 @@ O Explorer é uma experiência online com muito conteúdo prático e desafios.</
 </p>
 
 
-<h1 align="center">🧱 Pré-requisitos</h1>
+<h2 align="center">🧱 Pré-requisitos</h2>
+<br/>
 
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com">Git</a>
+<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com">Git</a> <br/>
 Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">Git</a></p>
 
-<h1 align="center">🎲 Rodando a aplicação</h1>
+<h2 align="center">🎲 Rodando a aplicação</h2>
+<br/>
 
 <p align="center">
 
@@ -47,24 +50,23 @@ Além disto é bom ter um editor para trabalhar com o código como <a href="http
 $ git clone https://github.com/Neves-Rafael/Focus-timer
 
 # Execute em qualquer navegador
-</p>
 ```
 </p>
+<br/>
 
-<h1 align="center">🛠 Tecnologias</h1>
+<h2 align="center">🛠 Tecnologias</h2>
+<br/>
 
-As seguintes ferramentas foram usadas na construção do projeto:
+<p>As seguintes ferramentas foram usadas na construção do projeto:<br/>
 
-- JavaScript
-- CSS
-- HTML
+- JavaScript - CSS - HTML
   <br/>
-- Phosphor (Icones)
-- Pexels (videos)
-- Chosic (Músicas)
+- Phosphor (Icones) - Pexels (videos) - Chosic (Músicas)</p>
+<br/>
 
 <h1 align="center">📝 Licença</h1>
-
+<br/>
+<br/>
 
 <p align="center">Este projeto esta sobe a licença MIT.
 
