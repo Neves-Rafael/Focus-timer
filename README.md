@@ -39,6 +39,9 @@ O Explorer é uma experiência online com muito conteúdo prático e desafios.</
 
 <p align="center">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com">Git</a> <br/>
 Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">Git</a></p>
+<br/>
+<br/>
+<br/>
 
 <h2 align="center">🎲 Rodando a aplicação</h2>
 <br/>
@@ -53,20 +56,18 @@ $ git clone https://github.com/Neves-Rafael/Focus-timer
 ```
 </p>
 <br/>
+<br/>
 
 <h2 align="center">🛠 Tecnologias</h2>
 <br/>
 
 <p align="center">As seguintes ferramentas foram usadas na construção do projeto:<br/>
-
-- JavaScript - CSS - HTML
-  <br/>
-- Phosphor (Icones) - Pexels (videos) - Chosic (Músicas)</p>
+JavaScript - CSS - HTML
+<br/>
+Phosphor (Icones) - Pexels (videos) - Chosic (Músicas)</p>
 <br/>
 
 <h1 align="center">📝 Licença</h1>
-<br/>
-<br/>
 
 <p align="center">Este projeto esta sobe a licença MIT.</p>
 
