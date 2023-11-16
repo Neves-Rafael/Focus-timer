@@ -11,13 +11,15 @@ O Explorer é uma experiência online com muito conteúdo prático e desafios.
 
 
 
-### Features
+### ⚙️Features
 
-- [x] Escolher entre 4 temas (estações do ano)
+<h3 align="center">⭐Escolher entre 4 temas (estações do ano)</h3>
+
+![image](https://github.com/Neves-Rafael/Focus-timer/assets/136202919/7e8e5ccc-722f-4657-b0ea-664cae813089)
 - [x] Reproduzir ou não um Vídeo de fundo
 - [x] Alterar o Timer como desejar
 
-### Pré-requisitos
+### 🧱 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com). 
