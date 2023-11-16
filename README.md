@@ -1,11 +1,10 @@
 <h1 align="center">Relax Focus Timer</h1>
+
 ![image](https://github.com/Neves-Rafael/Focus-timer/assets/136202919/70b79411-9555-4b9d-ae16-1bb05dc1ab94)
 
 
 <p align="center">⏲️Focus Timer - É uma forma de marca o tempo para que se mantenha focado nos estudos ou em outras tarefas que necessitam de concentração!</p>
-<h1 align="center">
-    <a href="(https://relax-focus-timer.netlify.app/)">🔗 Focus Timer</a>
-</h1>
+
 
 Projeto desenvolvido durante o curso **Explorer** oferecida pela [Rocketseat](https://app.rocketseat.com.br/).
 O Explorer é uma experiência online com muito conteúdo prático e desafios.
