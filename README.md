@@ -41,8 +41,6 @@ O Explorer é uma experiência online com muito conteúdo prático e desafios.</
 Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode</a></p>
 <br/>
 <br/>
-<br/>
-
 <h2 align="center">🎲 Rodando a aplicação</h2>
 <br/>
 
@@ -62,9 +60,11 @@ $ git clone https://github.com/Neves-Rafael/Focus-timer
 <br/>
 
 <p align="center">As seguintes ferramentas foram usadas na construção do projeto:<br/>
+<br/>  
 JavaScript - CSS - HTML
 <br/>
 Phosphor (Icones) - Pexels (videos) - Chosic (Músicas)</p>
+<br/>
 <br/>
 
 <h1 align="center">📝 Licença</h1>
