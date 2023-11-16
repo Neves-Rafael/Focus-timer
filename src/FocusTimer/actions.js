@@ -45,6 +45,7 @@ export function minusCount() {
 export function toggleMusic() {
   state.isMuted = document.documentElement.classList.toggle("music-on");
   state.isMuted ? station.playMusic() : station.stopMusic();
+  console.log("abc")
 }
 
 export function toggleAnimate() {

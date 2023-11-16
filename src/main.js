@@ -12,12 +12,12 @@ document.addEventListener("keydown", function (e) {
   }
 });
 
-document.addEventListener('DOMContentLoaded', function() {
-    var spanElement = document.getElementById('minutes');
+document.addEventListener("DOMContentLoaded", function () {
+  let spanElement = document.getElementById("minutes");
 
-    // Adicione um ouvinte para a entrada de texto no span
-    spanElement.addEventListener('input', function() {
-      // Limita o conteúdo do span a 2 caracteres
-      spanElement.textContent = spanElement.textContent.slice(0, 2);
-    });
+  // Adicione um ouvinte para a entrada de texto no span
+  spanElement.addEventListener("input", function () {
+    // Limita o conteúdo do span a 2 caracteres
+    spanElement.textContent = spanElement.textContent.slice(0, 2);
   });
+});

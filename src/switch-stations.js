@@ -1,21 +1,28 @@
+// import * as state from "./FocusTimer/state.js";
+import { toggleMusic } from "./FocusTimer/actions.js";
+
 const winter = document.getElementById("winter");
 winter.addEventListener("click", () => {
   switchStation("winter");
+  updateIconMusic()
 });
 
 const summer = document.getElementById("summer");
 summer.addEventListener("click", () => {
   switchStation("summer");
+  updateIconMusic()
 });
 
 const fall = document.getElementById("fall");
 fall.addEventListener("click", () => {
   switchStation("fall");
+  updateIconMusic()
 });
 
 const spring = document.getElementById("spring");
 spring.addEventListener("click", () => {
   switchStation("spring");
+  updateIconMusic()
 });
 
 let atualStation = "";
@@ -85,4 +92,9 @@ function updateVolume() {
   summerAudio.volume = currentVolume;
   fallAudio.volume = currentVolume;
   springAudio.volume = currentVolume;
+}
+
+function updateIconMusic(){
+  document.documentElement.classList.add("music-on");
+  console.log("music-on")
 }
